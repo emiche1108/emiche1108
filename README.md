@@ -28,8 +28,6 @@ Moving forward, I am committed to learning various programming languages and tec
               width="40" height="40" />
 
 
-## Top Languages Card
-Here is a summary of the top programming languages I've worked with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark)
 
 
