@@ -28,7 +28,7 @@ Moving forward, I am committed to learning various programming languages and tec
               width="40" height="40" />
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=donut&theme=onedark)
 
 
 
