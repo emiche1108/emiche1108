@@ -11,8 +11,6 @@ I am currently undergoing intensive training at a school (from August to Decembe
 Moving forward, I am committed to learning various programming languages and technologies to pursue a career in the IT industry.  
 <br>
 <br>
-<br>
-
 
 
 ## Languages and Tools
@@ -44,7 +42,6 @@ Moving forward, I am committed to learning various programming languages and tec
 </div>
 
 
-
 <p><img align="right" width="49%" 
      src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="emiche1108" /></p>
      
@@ -52,8 +49,6 @@ Moving forward, I am committed to learning various programming languages and tec
         src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
 <br>
 <br>
-<br>
-
 
 
 ## Here are some ideas to get you started:
