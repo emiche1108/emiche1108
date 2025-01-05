@@ -1,4 +1,4 @@
-# Hi 👋, I'm Emiri
+# Hi 👋, I'm Emiri🇯🇵
 
 Welcome to my GitHub profile!
 
