@@ -44,13 +44,6 @@ Moving forward, I am committed to learning various programming languages and tec
     </div>
   </div>
 
-  <!-- 右側に49%の比率で記載 -->
-  <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact"/></p>
-  <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
-</div>
-
-
-
 
 
 ## Here are some ideas to get you started:
