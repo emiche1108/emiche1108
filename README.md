@@ -16,8 +16,8 @@ Moving forward, I am committed to learning various programming languages and tec
 ## Languages and Tools
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
 
-  <!-- 左側に38%の比率で記載 -->
-  <div style="display: flex; flex-wrap: wrap; width: 38%; justify-content: space-evenly; gap: 10px;">
+  <!-- 左側に記載 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px;">
     <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
       HTML5
@@ -44,12 +44,12 @@ Moving forward, I am committed to learning various programming languages and tec
     </div>
   </div>
 
-  <!-- 右側に60%の比率で記載 -->
-  <div style="width: 60%; padding-left: 10px; display: flex; flex-direction: column; justify-content: flex-start;">
-    <p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="emiche1108" /></p>
-    <p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
-  </div>
+  <!-- 右側に49%の比率で記載 -->
+  <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact"/></p>
+  <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
 </div>
+
+
 
 
 
