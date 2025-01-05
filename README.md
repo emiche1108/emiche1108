@@ -34,12 +34,12 @@ Moving forward, I am committed to learning various programming languages and tec
     </div>
   </div>
   
-  <div style="width: 49%;">
-    <p>Top Languages Card:</p>
+## Top Languages Card
+<div style="width: 49%;">
+  <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark" />
-    </a>
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark" /></a>
+  </p>
 </div>
 
 
