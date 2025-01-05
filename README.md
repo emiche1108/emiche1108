@@ -13,7 +13,7 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 <p><img align="right" width="49%" 
-     src="https://github-readme-stats.vercel.app/api?username=emidhe1108&show_icons=true&locale=en" alt="t-keshi" /></p>
+     src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="t-keshi" /></p>
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
 
