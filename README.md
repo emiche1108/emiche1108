@@ -35,6 +35,10 @@ Moving forward, I am focused on learning various programming languages and techn
 </p>
 
 
+## Top Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
