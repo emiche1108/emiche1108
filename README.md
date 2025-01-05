@@ -46,7 +46,7 @@ Moving forward, I am committed to learning various programming languages and tec
   <br>
 
 
-### Recent Activities
+## Recent Activities
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=emiche1108&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=emiche1108&theme=transparent&hide_border=true" /></a>
