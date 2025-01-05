@@ -9,9 +9,6 @@ I am acquiring foundational skills in programming languages and practical techno
 Moving forward, I am focused on learning various programming languages and technologies to pursue a career in the IT industry.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
