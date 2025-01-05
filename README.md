@@ -16,14 +16,16 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 ## Languages and Tools
+
 | **HTML5** | **CSS3** | **JavaScript** | **Java** | **Python** | **MySQL** |
 |-----------|----------|----------------|----------|------------|-----------|
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | 
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | 
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> </p> 
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> </p> 
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> </p> 
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /> </p> 
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> </p> 
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> </p> 
+|
 
 
 <p><img align="right" width="49%" 
