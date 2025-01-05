@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Emiri+%F0%9F%91%8B%F0%9F%8F%BB" alt="Emiri's banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&vCenter=true&random=false&width=500&height=30&
+    lines=Hi++%F0%9F%91%8B%F0%9F%8F%BB+there%2C+I'm+Emiri" alt="Emiri's banner" />
 </a>
 
 # Hi 👋, I'm Emiri🇯🇵
