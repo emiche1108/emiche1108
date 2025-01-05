@@ -16,14 +16,30 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 ## Languages and Tools
-<p align="center">
-    HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-    CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-    JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-    Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-    Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-    MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-</p>
+| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+    HTML5
+</div> 
+| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+    CSS3
+</div> 
+| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+    JavaScript
+</div> 
+| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+    Java
+</div> 
+| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+    Python
+</div> 
+| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+    MySQL
+</div> |
 
 
 <p><img align="right" width="49%" 
