@@ -7,8 +7,7 @@ During this time, I witnessed the use of AI for demand forecasting and inventory
 in the IT sector.  
 As a result, I decided to transition into the IT field.  
 
-I am currently undergoing intensive training at a school (from August to December 2024),  
-where I am gaining foundational skills in programming languages and practical technologies.    
+I am currently undergoing intensive training at a school (from August to December 2024),  where I am gaining foundational skills in programming languages and practical technologies.    
 Moving forward, I am committed to learning various programming languages and technologies to pursue a career in the IT industry.  
 
 
