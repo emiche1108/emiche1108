@@ -14,37 +14,37 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 ## Languages and Tools
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <!-- 左側に60%の比率で記載 -->
-  <div style="display: flex; justify-content: space-between; width: 60%;">
-    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: space-between; width: 60%; flex-wrap: wrap;">
+    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
       HTML5
     </div>
-    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
       CSS3
     </div>
-    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
       JavaScript
     </div>
-    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
       Java
     </div>
-    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
       Python
     </div>
-    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
+    <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
       MySQL
     </div>
   </div>
 
   <!-- 右側に40%の比率で記載 -->
-  <div style="width: 30%;">
+  <div style="width: 38%; flex-wrap: wrap;">
     <p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="emiche1108" /></p>
     <p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
   </div>
