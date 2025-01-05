@@ -12,36 +12,20 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 
-## Languages and Tools & Top Languages Card
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 49%;">
-    <p>Languages and Tools:</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>   
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="width: 49%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    </div>
-  </div>
-  
+## Languages and Tools
+- **HTML5** ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =40x40)
+- **CSS3** ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =40x40)
+- **JavaScript** ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =40x40)
+- **Figma** ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg =40x40)
+- **Java** ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =40x40)
+- **Python** ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40)
+- **MySQL** ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =40x40)
+
+
 ## Top Languages Card
-<div style="width: 49%;">
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark" />
-    </a>
-  </p>
-</div>
+Here is a summary of the top programming languages I've worked with:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark)
 
 
 
