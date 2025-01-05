@@ -1,12 +1,14 @@
 # Hi 👋, I'm Emiri
 
-Welcome to my GitHub profile!  
-I have seven years of experience in corporate sales within the food industry.   
-During this time, I witnessed the use of AI for demand forecasting and inventory management, which sparked my strong interest in the IT sector.  
+Welcome to my GitHub profile!
 
-As a result, I decided to transition into the IT field and am currently undergoing intensive training at a school (from August to December 2024).   
-I am acquiring foundational skills in programming languages and practical technologies.  
-Moving forward, I am focused on learning various programming languages and technologies to pursue a career in the IT industry.
+I have seven years of experience in corporate sales within the food industry.  
+During this time, I witnessed the use of AI for demand forecasting and inventory management, which ignited my strong interest  
+in the IT sector.  
+As a result, I decided to transition into the IT field.  
+
+I am currently undergoing intensive training at a school (from August to December 2024), where I am gaining foundational skills in programming languages and practical technologies.  
+Moving forward, I am committed to learning various programming languages and technologies to pursue a career in the IT industry.
 
 
 
