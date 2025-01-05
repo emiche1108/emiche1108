@@ -12,14 +12,6 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 
-<p><img align="right" width="49%" 
-     src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="t-keshi" /></p>
-
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
-
-
-
-
 ## Languages and Tools
 **HTML5**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  
@@ -36,6 +28,16 @@ Moving forward, I am committed to learning various programming languages and tec
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />  
 **MySQL**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+
+
+
+<p><img align="right" width="49%" 
+     src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="t-keshi" /></p>
+
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiche1108&show_icons=true&locale=en&layout=compact" alt="emiche1108" /></p>
+
+
+
 
 
 
