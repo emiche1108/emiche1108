@@ -42,7 +42,8 @@ Moving forward, I am committed to learning various programming languages and tec
       MySQL
     </div>
   </div>
-
+  
+  <br>
 
 
 ## Here are some ideas to get you started:
