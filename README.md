@@ -20,17 +20,22 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 
-## Languages and Tools & Top Languages Card
+## Languages and Tools
+**HTML5**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  
+**CSS3**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />  
+**JavaScript**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />  
+**Figma**  
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />  
 
-| Languages and Tools                                                                                   | Top Languages                                           |
-|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| **HTML5** <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark) |
-| **CSS3** <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> |                                                        |
-| **JavaScript** <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> |                                                        |
-| **Figma** <br> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /> |                                                        |
-| **Java** <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /> |                                                        |
-| **Python** <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> |                                                        |
-| **MySQL** <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> |                                                        |
+**Java**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />  
+**Python**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />  
+**MySQL**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 
 
 
