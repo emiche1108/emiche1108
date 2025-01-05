@@ -13,22 +13,40 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 ## Languages and Tools
-
-**HTML5**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  
-**CSS3**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />  
-**JavaScript**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />  
-<br> 
-
-**Java**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />  
-**Python**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />  
-**MySQL**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <strong>HTML5</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  </div>
  
+  <div>
+    <strong>CSS3</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  </div>
+  
+  <div>
+    <strong>JavaScript</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <strong>Java</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  </div>
+ 
+  <div>
+    <strong>Python</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  </div>
+  
+  <div>
+    <strong>MySQL</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  </div>
+</div>
+
 
 
 <p><img align="right" width="49%" 
