@@ -19,8 +19,6 @@ Moving forward, I am committed to learning various programming languages and tec
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />  
 **JavaScript**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />  
-**Figma**  
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />  
 
 **Java**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />  
