@@ -16,22 +16,15 @@ Moving forward, I am committed to learning various programming languages and tec
 
 
 ## Languages and Tools
-
 | **HTML5** | **CSS3** | **JavaScript** | **Java** | **Python** | **MySQL** |
 |-----------|----------|----------------|----------|------------|-----------|
-| <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  </div> | <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  </div> | <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  </div> | <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  </div> | <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  </div> | <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-  </div> |
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | 
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | 
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | 
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | 
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
+
 
 <p><img align="right" width="49%" 
      src="https://github-readme-stats.vercel.app/api?username=emiche1108&show_icons=true&locale=en" alt="emiche1108" /></p>
