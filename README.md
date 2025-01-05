@@ -14,7 +14,7 @@ Moving forward, I am committed to learning various programming languages and tec
 
 ## Languages and Tools
 <div align="center" style="width: 80%; margin: auto;">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 30px;">
+  <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: nowrap;">
     <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
     </div>
