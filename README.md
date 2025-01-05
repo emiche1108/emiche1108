@@ -7,8 +7,9 @@ During this time, I witnessed the use of AI for demand forecasting and inventory
 in the IT sector.  
 As a result, I decided to transition into the IT field.  
 
-I am currently undergoing intensive training at a school (from August to December 2024), where I am gaining foundational skills in programming languages and practical technologies.  
-Moving forward, I am committed to learning various programming languages and technologies to pursue a career in the IT industry.
+I am currently undergoing intensive training at a school (from August to December 2024),  
+where I am gaining foundational skills in programming languages and practical technologies.    
+Moving forward, I am committed to learning various programming languages and technologies to pursue a career in the IT industry.  
 
 
 
@@ -38,7 +39,8 @@ Moving forward, I am committed to learning various programming languages and tec
 <div style="width: 49%;">
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiche1108&layout=compact&theme=onedark" />
+    </a>
   </p>
 </div>
 
