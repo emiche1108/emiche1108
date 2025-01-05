@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg">
+## <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&vCenter=true&random=false&width=500&height=30&lines=Hello+👋%2C+I'm+Emiri+🇯🇵" alt="Emiri's banner" />
 </a>
 
