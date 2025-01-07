@@ -46,6 +46,18 @@ Moving forward, I am committed to learning various programming languages and tec
 
 ---
 
+[![](https://raw.githubusercontent.com/emiche1108/emiche1108/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/emiche1108)
+[![](https://raw.githubusercontent.com/emiche1108/emiche1108/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/emiche1108)
+[![](https://raw.githubusercontent.com/emiche1108/emiche1108/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/emiche1108)
+[![](https://raw.githubusercontent.com/emiche1108/emiche1108/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/emiche1108)
+[![](https://raw.githubusercontent.com/emiche1108/emiche1108/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/emiche1108)
+
+
+---
+
+
+
+
 ## 🏆 Activity Overview
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
