@@ -31,7 +31,6 @@ Moving forward, I am committed to learning various programming languages and tec
 </p>
 <br>
 
-
 ## Languages and Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -46,10 +45,11 @@ Moving forward, I am committed to learning various programming languages and tec
     width="40" height="40" alt="Python" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
     width="40" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/flask.svg" 
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" 
     width="40" height="40" alt="Flask" />
 </p>
 <br>
+
 
 
 ---
