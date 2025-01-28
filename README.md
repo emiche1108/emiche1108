@@ -31,26 +31,6 @@ Moving forward, I am committed to learning various programming languages and tec
 </p>
 <br>
 
-## Languages and Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-    width="40" height="40" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-    width="40" height="40" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-    width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-    width="40" height="40" alt="Java" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-    width="40" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-    width="40" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" 
-    width="40" height="40" alt="Flask" />
-</p>
-<br>
-
-
 
 ---
 
