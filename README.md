@@ -31,36 +31,6 @@ Moving forward, I am committed to learning various programming languages and tec
 </p>
 <br>
 
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=emiche1108&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=radical" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=emiche1108&theme=radical&hide_border=true" />
-  </a>
-</p>
-<br>
-
----
-
-## 🏆 Activity Overview
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emiche1108&theme=radical" alt="Profile Details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emiche1108&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
-<br>
-
 ---
 
 ## 🌐 Top Languages
