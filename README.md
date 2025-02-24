@@ -4,14 +4,14 @@
 
 Welcome to my GitHub profile!
 
-I have seven years of experience in corporate sales within the food industry.
-During this time, I saw how AI was used for demand forecasting and inventory management, which sparked my deep interest in the IT field.
-With a strong desire to explore this new domain, I decided to make a career transition into IT.
+I have seven years of experience in corporate sales within the food industry.<br>
+During this time, I saw how AI was used for demand forecasting and inventory management, which sparked my deep interest in the IT field.<br>
+With a strong desire to explore this new domain, I decided to make a career transition into IT.<br>
 
-Currently, I am a beginner in programming and undergoing intensive training at a school (from August to December 2024),
-where I am building foundational skills in programming and practical technologies.
-Although I am still at the beginning of my journey, I am committed to continuous learning and development, 
-aiming to acquire various programming skills and grow as an IT professional.
+Currently, I am a beginner in programming and undergoing intensive training at a school (from August to December 2024),<br>
+where I am building foundational skills in programming and practical technologies.<br>
+Although I am still at the beginning of my journey, I am committed to continuous learning and development, <br>
+aiming to acquire various programming skills and grow as an IT professional.<br>
 <br>
 
 ---
